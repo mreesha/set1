@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int n;
+Cin>>n;
+if(n>o=positive || n<0=negative)
+{
+Cout<<"positive";
+}
+else if
+{
+Cout<<"negative";
+}}
