@@ -2,12 +2,14 @@
 int main()
 {
 int n;
-Cin>>n;
+cin>>n;
 if(n>o=positive || n<0=negative)
 {
-Cout<<"positive";
+cout<<"positive";
 }
 else if
 {
-Cout<<"negative";
-}}
+cout<<"negative";
+}
+return 0;
+}
