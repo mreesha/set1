@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream.h>
 using namespace std;
-void main
+int main
 {
 int n;
 scanf("%d",&n);
